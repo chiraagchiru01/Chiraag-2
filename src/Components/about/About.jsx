@@ -11,7 +11,7 @@ function About() {
         <figure className="profile-figure">
 
           <img
-            src="public/images/chiraag-photo.jpeg"
+            src="/images/chiraag-photo.jpeg"
             alt="Chiraag R"
           />
 
