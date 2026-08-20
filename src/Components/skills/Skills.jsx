@@ -23,7 +23,7 @@ const skills = [
   },
   {
     name: "C",
-    level: 60
+    level: 65
   }
 ];
 

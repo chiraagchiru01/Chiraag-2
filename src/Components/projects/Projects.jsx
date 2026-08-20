@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     name: "Resume Analyzer",
     description: "AI-Powered Resume Analysis.",
-    image: "public/images/Rsume Analyzer.png",
+    image: "public/images/resume-analyzer.png",
     category: "web",
     tech: ["React", "Node.js"]
   },
@@ -25,7 +25,7 @@ const projects = [
     id: 3,
     name: "Online Food Ordering System",
     description: "Delicious Food, Delivered to Your Door. 🍔🚴",
-    image: "public/images/food app.png",
+    image: "public/images/food-app.png",
     category: "web",
     tech: ["React", "API"]
   }
