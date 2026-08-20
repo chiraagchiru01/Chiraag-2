@@ -1,0 +1,45 @@
+.site-footer {
+  background: var(--navy);
+
+  color: white;
+
+  padding: 35px 6%;
+
+  text-align: center;
+}
+
+.site-footer p {
+  color: #cbd5e1;
+
+  font-size: 0.9rem;
+}
+
+.site-footer nav {
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  flex-wrap: wrap;
+
+  gap: 25px;
+
+  margin-top: 15px;
+}
+
+.site-footer a {
+  color: #cbd5e1;
+
+  text-decoration: none;
+
+  font-size: 0.9rem;
+
+  transition: 0.3s;
+}
+
+.site-footer a:hover {
+  color: white;
+
+  transform: translateY(-2px);
+}
